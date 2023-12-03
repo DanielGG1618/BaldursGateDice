@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Test">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Test.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_intelligenceCheck" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="IntelligenceModificator">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\IntelligenceModificator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntelligenceCheck">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCIAAAAAACAACAKAABAAAAAAkAAAAAAAAAAQAQEA=</HashCode>
+      <FileName>Assets\Scripts\IntelligenceCheck.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_modificators" />
+      <Field Name="_dice" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DiceD20">
+    <Position X="0.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAIgEAAAAAAAAACEAAAABAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\DiceD20.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dice">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAIAAAAAIAAAAAAEgAAICAEAAAJAAAAAgAAEA=</HashCode>
+      <FileName>Assets\Scripts\Dice.cs</FileName>
+      <NewMemberFileName>Assets\Scripts\DIce.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="System.Collections.Generic.IEnumerable&lt;T&gt;">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

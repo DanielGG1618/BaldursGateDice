@@ -1,0 +1,4 @@
+repository "hh@DanielGG@cloud"
+  path "/"
+    br "/main"
+    co "/main"
